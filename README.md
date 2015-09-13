@@ -6,9 +6,9 @@ Users can create recipies that include mutiple ingredients and directions for ea
 
 I made this project because I wanted to learn about:
   - using HAML (HTML Abstraction Markup Language) instead of ERB
-  - using the gem simple_form to add forms
-  - how to make nested forms using the Cocoon gem
-  - enabling image uploading for users
+  - adding forms using the gem Simple_form to
+  - how to make nested forms using the gem Cocoon
+  - enabling image uploading for users using the gem Paperclip
   - using the gem Devise for user sign up and login
 
 ## Stack
